@@ -1,0 +1,6 @@
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\bin\Debug\TestingExercises_Sorting.exe.config
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\bin\Debug\TestingExercises_Sorting.exe
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\bin\Debug\TestingExercises_Sorting.pdb
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\obj\Debug\TestingExercises_Sorting.csprojResolveAssemblyReference.cache
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\obj\Debug\TestingExercises_Sorting.exe
+E:\Test\TestingExercises_Sorting\TestingExercises_Sorting\obj\Debug\TestingExercises_Sorting.pdb
